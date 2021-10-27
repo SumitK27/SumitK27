@@ -117,7 +117,7 @@
     <a href="http://t.me/SumitK_27" target="_blank">
         <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" />
     </a>
-    <a href="https:/facebook.com/sumit.kajbaje" target="_blank">
+    <a href="https://facebook.com/sumit.kajbaje" target="_blank">
         <img class="logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" />
     </a>
 </div>
