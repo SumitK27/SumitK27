@@ -1,45 +1,168 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Sumit Kajbaje</h1>
-<h3 align="center">A passionate Programmer & Web developer from Pune, India</h3>
+<h1 style="text-align: center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Sumit Kajbaje</h1>
+<h3 style="text-align: center">A passionate Programmer & Web developer from Pune, India</h3>
 
-<p>
-  <span align="left">
-    <img src="https://komarev.com/ghpvc/?username=sumitk27&label=Profile%20views&color=0e75b6&style=flat" alt="sumitk27" /> 
-  </span>
-  <span align="right"> 
+<br />
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div>
+    <img style="height: 25px;" src="https://komarev.com/ghpvc/?username=sumitk27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  </div>
+  <div> 
     <a href="https://twitter.com/sumitkajbaje" target="blank">
-      <img src="https://img.shields.io/twitter/follow/sumitkajbaje?logo=twitter&style=for-the-badge" alt="sumitkajbaje" />
+      <img style="height: 25px;" src="https://img.shields.io/twitter/follow/sumitkajbaje?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
     </a> 
-    </span>
-  </p>
+  </div>
+</div>
 
--   🔭 I’m currently working on **Yamini Innovation LLP**
+<br />
 
--   🌱 I’m currently learning **React, Node.js**
+-   🔭 I’m currently working on <b>Yamini Innovation LLP</b>
 
--   👨‍💻 All of my projects are available at [https://testmycode.ga/](https://testmycode.ga/)
+-   🌱 I’m currently learning <b>React, Node.js</b> and improving my <b>DSA</b> skills.
 
--   📫 How to reach me **sumitkajbaje@gmail.com**
+-   👨‍💻 All of my work is hosted on <b>[TestMyCode.ga](https://testmycode.ga/)</b>
 
--   📄 Know about my experiences [https://www.linkedin.com/in/sumit-kajbaje/](https://www.linkedin.com/in/sumit-kajbaje/)
+-   📫 Reach out to me at <b>sumitkajbaje@gmail.com</b>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sumitk27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sumitk27" height="30" width="40" /></a>
-<a href="https://twitter.com/sumitkajbaje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumitkajbaje" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumit-kajbaje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-kajbaje" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sumitk27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sumitk27" height="30" width="40" /></a>
-<a href="https://fb.com/sumit-kajbaje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumit-k.9" height="30" width="40" /></a>
-<a href="https://medium.com/@sumitkajbaje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sumitkajbaje" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sumitkajbaje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumitkajbaje" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sumitkajbaje/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumitkajbaje/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/Sumit K#4939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sumit K#4939" height="30" width="40" /></a>
-</p>
+-   📄 Know about my experiences on <b>[LinkedIn](https://www.linkedin.com/in/sumit-kajbaje/)</b>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h2>
+    Connect me on
+</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitk27&show_icons=true&locale=en&layout=compact" alt="sumitk27" /></p>
+<hr />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitk27&show_icons=true&locale=en" alt="sumitk27" /></p>
+<h3>Social Medias:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitk27&" alt="sumitk27" /></p>
+<div>
+    <a href="https://twitter.com/sumitkajbaje" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" />
+    </a>
+    <a href="https://linkedin.com/in/sumit-kajbaje" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+    </a>
+    <a href="https://discord.com/users/468490331135016961" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" />
+    </a>
+    <a href="https://wa.me/919766355560" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" />
+    </a>
+    <a href="http://t.me/SumitK_27" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" />
+    </a>
+    <a href="https://facebook.com/sumit.kajbaje" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" />
+    </a>
+</div>
+
+<h3>Coding Platforms:</h3>
+
+<div>
+    <a href="https://github.com/SumitK27" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
+    </a>
+    <a href="https://codepen.io/sumitk27" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg" alt="Twitter" />
+    </a>
+    <a href="https://codesandbox.com/sumitk27" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Twitter" />
+    </a>
+    <a href="https://www.hackerrank.com/sumitkajbaje" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Twitter" />
+    </a>
+    <a href="https://medium.com/@sumitkajbaje" target="_blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" />
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/sumitkajbaje/profile" target="blank">
+        <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeekForGeek" />
+    </a>
+</div>
+
+<h2>Technical Skills</h2>
+
+<hr />
+
+<h3>Programming Languages:</h3>
+
+<div>
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash/Shell" />
+</div>
+
+<h3>Scripting Languages:</h3>
+
+<div>
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid green;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" />
+</div>
+
+<h3>Libraries & Frameworks:</h3>
+
+<div>
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" />
+</div>
+
+<h3>Databases:</h3>
+
+<div>
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres SQL" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" />
+</div>
+
+<h3>Tools:</h3>
+
+<div>
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid green;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome Dev Tools" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid green;" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://iconape.com/wp-content/files/ym/353199/svg/xampp-seeklogo.com.svg" alt="XAMPP" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premier Pro" />
+</div>
+
+<h3>Operating Systems</h3>
+
+<div>
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows XP, 7, 10" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="MacOS" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" />
+</div>
+
+<h2>GitHub Stats</h2>
+
+<hr />
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <div>
+        <div style="margin: 0 10px; display: flex; flex-wrap: wrap; justify-content: center;">
+            <img style="margin: 10px 5px; max-width: 90vw;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitk27&langs_count=10s&show_icons=true&locale=en&count_private=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Most Used Languages" />
+        </div>
+    </div>
+    <div>
+        <div style="margin: 0 10px; display: flex; flex-wrap: wrap; justify-content: center;">
+            <img style="margin: 10px 5px; max-width: 90vw;" src="https://github-readme-stats.vercel.app/api?username=sumitk27&show_icons=true&locale=en&count_private=true&theme=dracula" alt="GitHub Stats" />
+            <img style="margin: 10px 5px; max-width: 90vw;" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitk27&show_icons=true&locale=en&count_private=true&theme=dracula" alt="GitHub Streak" />
+        </div>
+        <div style="margin: 0 10px; display: flex; flex-wrap: wrap; justify-content: center;">
+            <img style="margin: 10px 5px; max-width: 90vw;" src="https://github-readme-stats.vercel.app/api/wakatime?user=sumitk27&show_icons=true&locale=en&count_private=true&theme=dracula" alt="WakaTime" />
+        </div>
+    </div>
+</div>
