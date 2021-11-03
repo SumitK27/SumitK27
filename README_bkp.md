@@ -133,6 +133,9 @@
     <a href="https://github.com/SumitK27" target="_blank">
         <img class="logo bg" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
     </a>
+    <a href="https://wakatime.com/@SumitK27" target="_blank">
+        <img class="logo bg" src="https://avatars.githubusercontent.com/ml/269?s=140&v=4" alt="WakaTime" />
+    </a>
     <a href="https://codepen.io/sumitk27" target="_blank">
         <img class="logo bg" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg" alt="Twitter" />
     </a>
