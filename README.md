@@ -14,7 +14,7 @@
   </div>
   <div>
      <a href="https://wakatime.com/@51dfdeb9-1041-42fb-9208-3de488dcae61">
-       <img src="https://wakatime.com/badge/user/51dfdeb9-1041-42fb-9208-3de488dcae61.svg" alt="Total time coded since Nov 3 2021" />
+       <img style="height: 25px;" src="https://wakatime.com/badge/user/51dfdeb9-1041-42fb-9208-3de488dcae61.svg" alt="Total time coded since Nov 3 2021" />
     </a>
   </div>
 </div>
