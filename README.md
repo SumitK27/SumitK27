@@ -3,7 +3,7 @@
 
 <br />
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=sumitk27&label=Profile%20views&color=0e75b6=&style=flat-square&color=green&label=Profile+Views)](https://github.com/SumitK27) [![Twitter](https://img.shields.io/twitter/follow/SumitKajbaje?logo=twitter&style=flat-square)](https://twitter.com/SumitKajbaje) [![GitHub](https://img.shields.io/github/followers/SumitK27?logo=github&style=flat-square&logoColor=white)](https://github.com/Dey-Sumit) [![LinkedIn](https://wakatime.com/badge/user/51dfdeb9-1041-42fb-9208-3de488dcae61.svg?style=flat-square)](https://wakatime.com/@51dfdeb9-1041-42fb-9208-3de488dcae61) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat-square)](https://testmycode.ga)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=sumitk27&label=Profile%20views&color=0e75b6=&style=flat-square&color=green&label=Profile+Views)](https://github.com/SumitK27) [![Twitter](https://img.shields.io/twitter/follow/SumitKajbaje?logo=twitter&style=flat-square)](https://twitter.com/SumitKajbaje) [![GitHub](https://img.shields.io/github/followers/SumitK27?logo=github&style=flat-square&logoColor=white)](https://github.com/SumitK27) [![WakaTime](https://wakatime.com/badge/user/51dfdeb9-1041-42fb-9208-3de488dcae61.svg?style=flat-square)](https://wakatime.com/@51dfdeb9-1041-42fb-9208-3de488dcae61) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat-square)](https://testmycode.ga)
 
 <br />
 
