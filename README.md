@@ -1,38 +1,24 @@
-<h1 style="text-align: center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Sumit Kajbaje</h1>
-<h3 style="text-align: center">A passionate Programmer & Web developer from Pune, India</h3>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Sumit Kajbaje</h1>
+<h3 align="center">A passionate Programmer & Web developer from Pune, India</h3>
 
 <br />
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div>
-    <img style="height: 25px;" src="https://komarev.com/ghpvc/?username=sumitk27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  </div>
-  <div> 
-    <a href="https://twitter.com/sumitkajbaje" target="blank">
-      <img style="height: 25px;" src="https://img.shields.io/twitter/follow/sumitkajbaje?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-    </a> 
-  </div>
-  <div>
-     <a href="https://wakatime.com/@51dfdeb9-1041-42fb-9208-3de488dcae61">
-       <img style="height: 25px;" src="https://wakatime.com/badge/user/51dfdeb9-1041-42fb-9208-3de488dcae61.svg" alt="Total time coded since Nov 3 2021" />
-    </a>
-  </div>
-</div>
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=sumitk27&label=Profile%20views&color=0e75b6=&style=flat-square&color=green&label=Profile+Views)](https://github.com/SumitK27) [![Twitter](https://img.shields.io/twitter/follow/SumitKajbaje?logo=twitter&style=flat-square)](https://twitter.com/SumitKajbaje) [![GitHub](https://img.shields.io/github/followers/SumitK27?logo=github&style=flat-square&logoColor=white)](https://github.com/Dey-Sumit) [![LinkedIn](https://wakatime.com/badge/user/51dfdeb9-1041-42fb-9208-3de488dcae61.svg?style=flat-square)](https://wakatime.com/@51dfdeb9-1041-42fb-9208-3de488dcae61) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat-square)](https://testmycode.ga)
 
 <br />
 
--   🔭 I’m currently working on <b>Yamini Innovation LLP</b>
+-   🔭 I’m currently working on <b>AI-Based Pet Adoption System</b>
 
--   🌱 I’m currently learning <b>React, Node.js</b> and improving my <b>DSA</b> skills.
+-   🌱 I’m currently learning <b>React, Node.js</b> and improving my <b>Web Dev</b> skills.
 
--   👨‍💻 All of my work is hosted on <b>[TestMyCode.ga](https://testmycode.ga/)</b>
+-   👨‍💻 All my work is hosted on <b>[TestMyCode.ga](https://testmycode.ga/)</b>
 
 -   📫 Reach out to me at <b>sumitkajbaje@gmail.com</b>
 
 -   📄 Know about my experiences on <b>[LinkedIn](https://www.linkedin.com/in/sumit-kajbaje/)</b>
 
 <h2>
-    Connect me on
+    Connect with me on
 </h2>
 
 <hr />
@@ -40,48 +26,48 @@
 <h3>Social Medias:</h3>
 
 <div>
-    <a href="https://twitter.com/sumitkajbaje" target="_blank">
+    <a style="text-decoration:none" href="https://twitter.com/sumitkajbaje" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" />
     </a>
-    <a href="https://linkedin.com/in/sumit-kajbaje" target="_blank">
+    <a style="text-decoration:none" href="https://linkedin.com/in/sumit-kajbaje" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
     </a>
-    <a href="https://discord.com/users/468490331135016961" target="_blank">
+    <a style="text-decoration:none" href="https://discord.com/users/468490331135016961" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" />
     </a>
-    <a href="https://wa.me/919766355560" target="_blank">
+    <!-- <a style="text-decoration:none" href="https://wa.me/919766355560" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" />
     </a>
-    <a href="http://t.me/SumitK_27" target="_blank">
+    <a style="text-decoration:none" href="http://t.me/SumitK_27" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" />
     </a>
-    <a href="https://facebook.com/sumit.kajbaje" target="_blank">
+    <a style="text-decoration:none" href="https://facebook.com/sumit.kajbaje" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" />
-    </a>
+    </a> -->
 </div>
 
 <h3>Coding Platforms:</h3>
 
 <div>
-    <a href="https://github.com/SumitK27" target="_blank">
+    <a style="text-decoration:none" href="https://github.com/SumitK27" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" />
     </a>
-    <a href="https://wakatime.com/@SumitK27" target="_blank">
+    <a style="text-decoration:none" href="https://wakatime.com/@SumitK27" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://avatars.githubusercontent.com/ml/269?s=140&v=4" alt="WakaTime" />
     </a>
-    <a href="https://codepen.io/sumitk27" target="_blank">
+    <a style="text-decoration:none" href="https://codepen.io/sumitk27" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg" alt="Twitter" />
     </a>
-    <a href="https://codesandbox.com/sumitk27" target="_blank">
+    <a style="text-decoration:none" href="https://codesandbox.com/sumitk27" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="Twitter" />
     </a>
-    <a href="https://www.hackerrank.com/sumitkajbaje" target="_blank">
+    <a style="text-decoration:none" href="https://www.hackerrank.com/sumitkajbaje" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Twitter" />
     </a>
-    <a href="https://medium.com/@sumitkajbaje" target="_blank">
+    <a style="text-decoration:none" href="https://medium.com/@sumitkajbaje" target="_blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" />
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/sumitkajbaje/profile" target="blank">
+    <a style="text-decoration:none" href="https://auth.geeksforgeeks.org/user/sumitkajbaje/profile" target="blank">
         <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeekForGeek" />
     </a>
 </div>
@@ -171,6 +157,9 @@
         </div>
         <div style="margin: 0 10px; display: flex; flex-wrap: wrap; justify-content: center;">
             <img style="margin: 10px 5px; max-width: 90vw;" src="https://github-readme-stats.vercel.app/api/wakatime?user=sumitk27&show_icons=true&locale=en&count_private=true&theme=dracula" alt="WakaTime" />
+        </div>
+        <div style="text-align: center;">
+            <img src="https://github-profile-trophy.vercel.app/?username=SumitK27&theme=juicyfresh&margin-w=15" alt="trophy" />
         </div>
     </div>
 </div>
