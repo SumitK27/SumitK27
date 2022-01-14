@@ -102,9 +102,11 @@
 
 <div>
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Bootstrap" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" />
 </div>
 
