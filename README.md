@@ -11,7 +11,7 @@
 
 -   🌱 I’m currently learning <b>React, Node.js</b> and improving my <b>Web Dev</b> skills.
 
--   👨‍💻 All my work is hosted on <b>[SumitKajbaje.cf](https://sumitkajbaje.cf/)</b>
+-   👨‍💻 All my work is hosted on <b>[sumitKajbaje.netlify.app](https://sumitkajbaje.netlfiy.app/)</b>
 
 -   📫 Reach out to me at <b>sumitkajbaje@gmail.com</b>
 
