@@ -3,13 +3,13 @@
 
 <br />
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=sumitk27&label=Profile%20views&color=0e75b6=&style=flat-square&color=green&label=Profile+Views)](https://github.com/SumitK27) [![Twitter](https://img.shields.io/twitter/follow/SumitKajbaje?logo=twitter&style=flat-square)](https://twitter.com/SumitKajbaje) [![GitHub](https://img.shields.io/github/followers/SumitK27?logo=github&style=flat-square&logoColor=white)](https://github.com/SumitK27) [![WakaTime](https://wakatime.com/badge/user/51dfdeb9-1041-42fb-9208-3de488dcae61.svg?style=flat-square)](https://wakatime.com/@51dfdeb9-1041-42fb-9208-3de488dcae61) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat-square)](https://testmycode.ga)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=sumitk27&label=Profile%20views&color=0e75b6=&style=flat-square&color=green&label=Profile+Views)](https://github.com/SumitK27) [![Twitter](https://img.shields.io/twitter/follow/SumitKajbaje?logo=twitter&style=flat-square)](https://twitter.com/SumitKajbaje) [![GitHub](https://img.shields.io/github/followers/SumitK27?logo=github&style=flat-square&logoColor=white)](https://github.com/SumitK27) [![WakaTime](https://wakatime.com/badge/user/51dfdeb9-1041-42fb-9208-3de488dcae61.svg?style=flat-square)](https://wakatime.com/@51dfdeb9-1041-42fb-9208-3de488dcae61) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat-square)](https://sumitkajbaje.netlify.app/)
 
 <br />
 
 -   🔭 I’m currently working on <b>AI-Based Pet Adoption System</b>
 
--   🌱 I’m currently learning <b>React, Node.js</b> and improving my <b>Web Dev</b> skills.
+-   🌱 I’m currently learning <b>C# WebAPI</b> and improving my <b>Web Dev</b> skills.
 
 -   👨‍💻 All my work is hosted on <b>[sumitkajbaje.netlify.app](https://sumitkajbaje.netlify.app/)</b>
 
@@ -72,7 +72,7 @@
     </a>
 </div>
 
-<h2>Technical Skills</h2>
+<h2>Technical Skills (Worked so far on)</h2>
 
 <hr />
 
@@ -92,8 +92,11 @@
 <div>
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid green;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid green;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="YAML" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" />
 </div>
@@ -101,8 +104,9 @@
 <h3>Libraries & Frameworks:</h3>
 
 <div>
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
-    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Bootstrap" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
@@ -122,12 +126,14 @@
 
 <div>
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid green;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome Dev Tools" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid green;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="Firefox" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid green;" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://iconape.com/wp-content/files/ym/353199/svg/xampp-seeklogo.com.svg" alt="XAMPP" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" />
-    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="Adobe XD" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premier Pro" />
 </div>
@@ -136,7 +142,7 @@
 
 <div>
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" />
-    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows XP, 7, 10" />
+    <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows XP, 7, 10, 11" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid red;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="MacOS" />
     <img style="margin: 5px; padding: 5px; width: 30px; height: 30px; background-color: #eee; border-radius: 6px; border: 3px solid orange;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" />
