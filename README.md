@@ -164,7 +164,7 @@
             <img style="margin: 10px 5px; max-width: 90vw;" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitk27&show_icons=true&locale=en&count_private=true&theme=dracula" alt="GitHub Streak" />
         </div>
         <div style="margin: 0 10px; display: flex; flex-wrap: wrap; justify-content: center;">
-            <img style="margin: 10px 5px; max-width: 90vw;" src="https://github-readme-stats.vercel.app/api/wakatime?user=sumitk27&show_icons=true&locale=en&count_private=true&theme=dracula" alt="WakaTime" />
+            <img style="margin: 10px 5px; max-width: 90vw;" src="https://github-readme-stats.vercel.app/api/wakatime?username=sumitk27&show_icons=true&locale=en&count_private=true&theme=dracula" alt="WakaTime" />
         </div>
         <div style="text-align: center;">
             <img src="https://github-profile-trophy.vercel.app/?username=SumitK27&theme=juicyfresh&margin-w=15" alt="trophy" />
