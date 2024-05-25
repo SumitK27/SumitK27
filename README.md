@@ -155,7 +155,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <div>
         <div style="margin: 0 10px; display: flex; flex-wrap: wrap; justify-content: center;">
-            <img style="margin: 10px 5px; max-width: 90vw;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitk27&langs_count=10s&show_icons=true&locale=en&count_private=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Most Used Languages" />
+            <img style="margin: 10px 5px; max-width: 90vw;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitk27&langs_count=10s&show_icons=true&locale=en&count_private=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Most Used Languages" />
         </div>
     </div>
     <div>
